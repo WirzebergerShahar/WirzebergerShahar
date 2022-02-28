@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WirzebergerShahar
-- 👀 I’m interested in the field of Data Science/Analytics and enjoy learning new things and exploring complex problems.
-- 🌱 I’m currently learning for my Data Science M.Sc at Ben Gurion University of the Negev (IEM) 
-and Teaching Assistant in "Data Science for Economics" course.
+- 👀Today I'm a Data Scientist at FIBI- The First International Bank of Israel
+- 🌱 I learnd Data Science M.Sc at Ben Gurion University of the Negev (IEM) 
+and was a Teaching Assistant in "Data Science for Economics" course.
 - 📫 How to reach me by email: shahar3008200@gmail.com
 
 <!---
